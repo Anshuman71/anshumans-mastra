@@ -498,7 +498,7 @@ packages:
       zod: ^3.25.0 || ^4.0.0
 
   '@mastra/deployer-vercel@file:mastra-deployer-vercel-1.0.9.tgz':
-    resolution: {integrity: sha512-/FJgeHMNWn3qv1eXh6fZEYa2oMSyiHG4E6gNPAJfM/WxbFJphHWwIVa5vPBpxfQeC1vCu8sOSueEiL8NW1JNkA==, tarball: file:mastra-deployer-vercel-1.0.9.tgz}
+    resolution: {integrity: sha512-GEN61vNHfw7YseYhltTxigswRK9BbLhUTnNao2oQtyhdhfK2Oxmk1d/m2Y7sabHwku4vg+Y4UKrmipwgVc4AIQ==, tarball: file:mastra-deployer-vercel-1.0.9.tgz}
     version: 1.0.9
     engines: {node: '>=22.13.0'}
     peerDependencies:
