@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "mastra dev",
-    "build": "mastra build --studio",
+    "build": "mastra build",
     "start": "mastra start"
   },
   "keywords": [],
@@ -18,11 +18,11 @@
     "node": ">=22.13.0"
   },
   "dependencies": {
-    "@mastra/ai-sdk": "^1.1.0",
-    "@mastra/core": "^1.8.0",
-    "@mastra/deployer-vercel": "file:mastra-deployer-vercel-1.0.9.tgz",
+    "@mastra/ai-sdk": "^1.1.1",
+    "@mastra/core": "^1.9.0",
+    "@mastra/deployer-vercel": "^1.1.0",
     "@mastra/evals": "^1.1.2",
-    "@mastra/libsql": "^1.6.2",
+    "@mastra/libsql": "^1.6.3",
     "@mastra/loggers": "^1.0.2",
     "@mastra/memory": "^1.5.2",
     "@mastra/observability": "^1.2.1",
